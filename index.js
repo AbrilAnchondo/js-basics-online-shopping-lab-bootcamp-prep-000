@@ -74,7 +74,7 @@ function removeFromCart(item) {
       } else {
        return 'Your total cost is $' + total() + ', which will be charged to the card ' + cardNumber + '.';
       } 
-      setCart (0);
+      
       
   }
      
